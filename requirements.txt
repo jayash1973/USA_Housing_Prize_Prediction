@@ -3,5 +3,7 @@ numpy
 seaborn
 plotly
 matplotlib
+scikit-learn
+nbformat>=4.2.0
 
 -e .
